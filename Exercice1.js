@@ -1,3 +1,3 @@
 let myFirstVariable = 5;
 
-(myFirstVariable);
+console.log(myFirstVariable);
